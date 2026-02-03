@@ -29,7 +29,7 @@ const rolling = function () {
   dice = Math.trunc(Math.random() * 6) + 1;
   // 2. Display dice
   diceEL.classList.remove('hidden');
-  diceEL.src = `dice-${dice}.png`;
+  diceEL.src = `/Images/dice-${dice}.png`;
 
   // 3. chek for rolled 1: if true, switch to next player
   if (dice !== 1 && count % 2 == 0) {
