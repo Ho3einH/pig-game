@@ -3,6 +3,8 @@
 A two-player dice game where you compete to reach 100 points first.
 Each turn, you can roll the dice to accumulate points or hold to save them.
 
+> ⚠️ attention : this is only for pc screen
+
 ✨ Features:
 • Two-player turn-based gameplay
 • Interactive dice rolling animation
